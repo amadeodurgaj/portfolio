@@ -40,7 +40,7 @@ This is a **React-based portfolio website** showcasing my skills, projects, and 
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/YOUR_USERNAME/portfolio.git
+   git clone https://github.com/amadeodurgaj/portfolio.git
    cd portfolio
    ```
 
